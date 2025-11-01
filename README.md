@@ -64,4 +64,12 @@ To explore this website locally, follow these simple steps:
     Open the `index.html` file directly in your preferred web browser.
 
 
+## 🤝 Contribution
+
+This is a personal project, but suggestions and feedback are welcome!
+
+***
+
+**Soheib Kaddouri** / **SoheibKaddouri**
+
 
