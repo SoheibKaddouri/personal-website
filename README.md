@@ -4,15 +4,6 @@ A clean, multi-page personal website showcasing projects, interests, hobbies, an
 
 ---
 
-## 🔗 Live Site and Repository Links
-
-| Link Type | URL |
-| :--- | :--- |
-| **Live Website** | [https://soheibkaddouri.github.io/personal-website/](https://soheibkaddouri.github.io/personal-website/) |
-| **GitHub Repository** | [https://github.com/SoheibKaddouri/personal-website.git](https://github.com/SoheibKaddouri/personal-website.git) |
-
----
-
 ## ✨ Website Pages & Structure
 
 The site is divided into several thematic pages, providing a complete overview of various aspects of my life:
@@ -63,6 +54,16 @@ To explore this website locally, follow these simple steps:
 3.  **Open in Browser:**
     Open the `index.html` file directly in your preferred web browser.
 
+---
+
+## 🔗 Live Site and Repository Links
+
+| Link Type | URL |
+| :--- | :--- |
+| **Live Website** | [https://soheibkaddouri.github.io/personal-website/](https://soheibkaddouri.github.io/personal-website/) |
+| **GitHub Repository** | [https://github.com/SoheibKaddouri/personal-website.git](https://github.com/SoheibKaddouri/personal-website.git) |
+
+---
 
 ## 🤝 Contribution
 
@@ -71,5 +72,6 @@ This is a personal project, but suggestions and feedback are welcome!
 ***
 
 **Soheib Kaddouri** / **SoheibKaddouri**
+
 
 
