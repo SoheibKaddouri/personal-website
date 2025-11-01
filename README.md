@@ -45,7 +45,7 @@ To explore this website locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SoheibKaddouri/personal-website.git](https://github.com/SoheibKaddouri/personal-website.git)
+    git clone https://github.com/SoheibKaddouri/personal-website.git
     ```
 2.  **Navigate to the directory:**
     ```bash
@@ -72,6 +72,7 @@ This is a personal project, but suggestions and feedback are welcome!
 ***
 
 **Soheib Kaddouri** / **SoheibKaddouri**
+
 
 
 
