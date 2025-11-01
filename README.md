@@ -45,7 +45,7 @@ This project is built exclusively using foundational web technologies, demonstra
 
 A look at the website's main interface and design:
 
-![Demo of the Personal Website](https://github.com/user-attachments/assets/e7e829b7-9b91-4354-b188-51673f9a9c25)
+![Demo of the Personal Website](https://github.com/user-attachments/assets/d8e5be44-9274-468c-911e-ae99007e0e6d)
 ---
 
 ## 🚀 Getting Started
@@ -62,3 +62,4 @@ To explore this website locally, follow these simple steps:
     ```
 3.  **Open in Browser:**
     Open the `index.html` file directly in your preferred web browser.
+
